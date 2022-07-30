@@ -1,0 +1,11 @@
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\bin\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.deps.json
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\bin\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\bin\Debug\net5.0\ref\Empresaurio.TeamOrganizer.Infrastructure.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\bin\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.pdb
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.AssemblyInfo.cs
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\ref\Empresaurio.TeamOrganizer.Infrastructure.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.pdb
