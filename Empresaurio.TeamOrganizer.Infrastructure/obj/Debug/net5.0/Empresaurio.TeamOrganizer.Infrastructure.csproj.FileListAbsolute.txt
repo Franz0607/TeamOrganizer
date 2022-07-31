@@ -9,3 +9,7 @@ C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeam
 C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.dll
 C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\ref\Empresaurio.TeamOrganizer.Infrastructure.dll
 C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.pdb
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\bin\Debug\net5.0\Empresaurio.TeamOrganizer.Domain.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\bin\Debug\net5.0\Empresaurio.TeamOrganizer.Domain.pdb
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Infrastructure\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.csproj.CopyComplete
