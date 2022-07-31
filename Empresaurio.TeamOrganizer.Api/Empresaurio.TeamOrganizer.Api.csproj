@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Empresaurio.TeamOrganizer.Infrastructure\Empresaurio.TeamOrganizer.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9,3 +9,4 @@ C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeam
 C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Domain\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Domain.dll
 C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Domain\obj\Debug\net5.0\ref\Empresaurio.TeamOrganizer.Domain.dll
 C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Domain\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Domain.pdb
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Domain\obj\Debug\net5.0\Empresaurio.TeamOrganizer.Domain.csproj.AssemblyReference.cache

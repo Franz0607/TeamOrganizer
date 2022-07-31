@@ -5,8 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Repositories\" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Empresaurio.TeamOrganizer.Domain\Empresaurio.TeamOrganizer.Domain.csproj" />
   </ItemGroup>
 
 </Project>
