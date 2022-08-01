@@ -37,3 +37,10 @@ C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeam
 C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Api\bin\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.dll
 C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Api\bin\Debug\net5.0\Empresaurio.TeamOrganizer.Infrastructure.pdb
 C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Api\bin\Debug\net5.0\Empresaurio.TeamOrganizer.Domain.pdb
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FRANZ\Desktop\portafolio-net\empresaurio-team-organizer\EmpresaurioTeamOrganizer\Empresaurio.TeamOrganizer.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

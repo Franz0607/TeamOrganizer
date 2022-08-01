@@ -10,7 +10,7 @@ namespace Empresaurio.TeamOrganizer.Infrastructure.Interfaces
 {
     public interface IAccountRepository
     {
-        Task<User> AuthenticateAsync(Credentials credentials);
+        Task<UserCredentials> AuthenticateAsync(Credentials credentials);
         Task RegisterAsync(User user);
     }
 }

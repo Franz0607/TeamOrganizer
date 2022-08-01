@@ -20,9 +20,9 @@ namespace Empresaurio.TeamOrganizer.Infrastructure.Repositories
             _ConnectionString = dataAccess.ConnectionSQL;
         }
 
-        public async Task<User> AuthenticateAsync(Credentials credentials)
+        public async Task<UserCredentials> AuthenticateAsync(Credentials credentials)
         {
-            User user = null;
+            UserCredentials user = null;
 
             using (SqlConnection connection = new SqlConnection(_ConnectionString))
             {
@@ -41,10 +41,12 @@ namespace Empresaurio.TeamOrganizer.Infrastructure.Repositories
                     {
                         while (dataReader.Read())
                         {
-                            user = new User()
+                            user = new UserCredentials()
                             {
+                                FirstName = dataReader.GetString(dataReader.GetOrdinal("FirstName")),
+                                LastName = dataReader.GetString(dataReader.GetOrdinal("LastName")),
                                 EmailAddress = dataReader.GetString(dataReader.GetOrdinal("EmailAddress")),
-                                Password = dataReader.GetString(dataReader.GetOrdinal("Url"))
+                                PhotoUrl = dataReader.GetString(dataReader.GetOrdinal("Url"))
                             };
                         }
                         dataReader.Close();
